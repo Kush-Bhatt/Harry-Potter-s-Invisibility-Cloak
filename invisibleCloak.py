@@ -36,6 +36,3 @@ while cap.isOpened():
     k = cv2.waitKey(10)
     if k == 13 or k == 27:
         break
-
-#changes
-a = 20
