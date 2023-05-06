@@ -36,3 +36,15 @@ while cap.isOpened():
     k = cv2.waitKey(10)
     if k == 13 or k == 27:
         break
+
+a = 10
+b = 5
+
+sum1 = a + b
+sub = a - b 
+mul = a * b
+div = a / b
+
+
+print(sum1, sub, mul, div)
+
