@@ -38,4 +38,13 @@ while cap.isOpened():
         break
 
 #changes
-a = 30
+a = 40
+b = 30
+sum = a + b
+print(sum)
+sub = a - b
+print(sub)
+mult = a * b
+print(mult)
+div = a / b
+print(div)
