@@ -38,4 +38,4 @@ while cap.isOpened():
         break
 
 #changes
-a = 20
+a = 30
