@@ -37,8 +37,8 @@ while cap.isOpened():
     if k == 13 or k == 27:
         break
 
-a = 10
-b = 5
+a = 20
+b = 10
 
 sum1 = a + b
 sub = a - b 
