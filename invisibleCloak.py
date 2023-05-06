@@ -41,10 +41,10 @@ a = 50
 b = 5
 
 sum1 = a + b
-sub = a - b 
+sub = a - b
 mul = a * b
 div = a / b
-
+a
 
 print(sum1, sub, mul, div)
 
